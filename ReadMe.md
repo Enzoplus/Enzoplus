@@ -1,4 +1,4 @@
-:: Hi, I’m @Enzoplus :: 
+- :: Hi, I’m @Enzoplus :: 
  im an 18 year old Andorran citizen interested in coding and Linux.
  i currently know HTML, lua, and im learning rust.
  I use alpine linux for development.
